@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1494830731 source:d:\about study\kuliah\semester 2\metode numerik\turunan\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
